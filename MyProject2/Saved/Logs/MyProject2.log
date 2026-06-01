@@ -4425,3 +4425,273 @@ Script Stack (0 frames):
 [2026.06.01-14.45.24:014][552]AssetCheck: New page: Asset Save: multiple assets
 [2026.06.01-14.45.24:014][552]LogContentValidation: Display: Validating World /Game/Levels/level01.level01
 [2026.06.01-14.45.24:014][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/level01_BuiltData.level01_BuiltData
+[2026.06.01-14.46.20:872][ 38]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.06.01-14.46.20:872][ 38]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.06.01-14.47.07:281][136]LogEditorViewport: Clicking Background
+[2026.06.01-14.47.07:966][218]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2026.06.01-14.47.53:546][900]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2026.06.01-14.48.01:040][783]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2026.06.01-14.48.11:225][983]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2026.06.01-14.52.13:782][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal_01.BP_Crystal_01
+[2026.06.01-14.52.17:978][426]LogRenderer: Reallocating scene render targets to support 1792x992 Format 10 NumSamples 1 (Frame:1).
+[2026.06.01-14.54.19:405][870]LogEditorTransaction: Undo Modify Component Location
+[2026.06.01-14.57.12:878][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.06.01-14.57.12:884][121]LogSavePackage: Moving '../../../../../../Documents/GitHub/Ball_Surfer_Game/MyProject2/Saved/level01_Auto3F8C66B92423D339103EF5EA844D87D0A.tmp' to '../../../../../../Documents/GitHub/Ball_Surfer_Game/MyProject2/Saved/Autosaves/Game/Levels/level01_Auto3.umap'
+[2026.06.01-14.57.12:884][121]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/level01' took 0.032
+[2026.06.01-14.57.12:884][121]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.06.01-14.57.12:885][121]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Crystal_01] ([2] browsable assets)...
+[2026.06.01-14.57.12:892][121]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Crystal_01.BP_Crystal_01]
+[2026.06.01-14.57.12:892][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Crystal_01]
+[2026.06.01-14.57.12:902][121]LogSavePackage: Moving '../../../../../../Documents/GitHub/Ball_Surfer_Game/MyProject2/Saved/BP_Crystal_01_Auto3469C33DA475A9281CA6BFC9B93D4191C.tmp' to '../../../../../../Documents/GitHub/Ball_Surfer_Game/MyProject2/Saved/Autosaves/Game/Blueprints/BP_Crystal_01_Auto3.uasset'
+[2026.06.01-14.57.12:903][121]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.06.01-14.59.41:888][226]LogEditorTransaction: Undo Modify Component(s)
+[2026.06.01-14.59.52:298][380]LogEditorTransaction: Undo Modify Component(s)
+[2026.06.01-15.00.54:314][256]BlueprintLog: New page: Compile BP_Crystal_01
+[2026.06.01-15.00.54:364][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.06.01-15.00.54:406][256]LogSlate: Took 0.006096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.06.01-15.00.55:855][423]LogSlate: Window 'BP_Crystal_01' being destroyed
+[2026.06.01-15.00.55:886][423]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.01-15.00.55:886][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.01-15.01.04:806][453]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_01_C (BP_Crystal_01)
+[2026.06.01-15.01.10:053][ 41]MapCheck: New page: Map Check
+[2026.06.01-15.01.10:118][ 41]Cmd: MAP REBUILD ALLVISIBLE
+[2026.06.01-15.01.10:118][ 41]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.06.01-15.01.10:119][ 41]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=false
+[2026.06.01-15.01.10:166][ 41]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.06.01-15.01.10:167][ 41]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.06.01-15.01.10:167][ 41]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.06.01-15.01.10:180][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.06.01-15.01.10:187][ 41]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2026.06.01-15.01.10:188][ 41]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2026.06.01-15.01.10:197][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.01-15.01.10:199][ 41]LightingResults: New page: Lighting Build - 1 июн. 2026 г., 19:01:10
+[2026.06.01-15.01.10:202][ 41]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.06.01-15.01.10:206][ 41]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.06.01-15.01.10:206][ 41]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.06.01-15.01.10:207][ 41]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.06.01-15.01.10:207][ 41]LogSwarmInterface: [TryOpenConnection] Local Process ID is 28444
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.06.01-15.01.14:765][ 41]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.06.01-15.01.14:804][ 41]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.06.01-15.01.14:804][ 41]MapCheck: New page: level01 - 1 июн. 2026 г., 19:01:14
+[2026.06.01-15.01.14:804][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,188ms to complete.
+[2026.06.01-15.01.14:806][ 41]LogEditorBuildUtils: Build time 0:04
+[2026.06.01-15.01.14:813][ 41]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.01-15.01.14:813][ 41]LogShaderCompilers: Display: Total job queries 682, among them cache hits 173 (25.37%)
+[2026.06.01-15.01.14:813][ 41]LogShaderCompilers: Display: Tracking 449 distinct input hashes that result in 224 distinct outputs (49.89%)
+[2026.06.01-15.01.14:813][ 41]LogShaderCompilers: Display: RAM used: 2.22 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2026.06.01-15.01.14:813][ 41]LogShaderCompilers: Display: ================================================
+[2026.06.01-15.01.14:885][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.06.01-15.01.15:535][ 63]Job is a success!
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:      Bricks at depth
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:      Bricks in each level
+[2026.06.01-15.01.15:692][ 64]LogVolumetricLightmapImport:          level01 			 3 bricks 	 100.0% (Persistent Level)
+[2026.06.01-15.01.15:758][ 64]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2026.06.01-15.01.15:758][ 64]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2026.06.01-15.01.15:758][ 64]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.06.01-15.01.15:758][ 64]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.06.01-15.01.15:758][ 64]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 512X512)
+[2026.06.01-15.01.15:759][ 64]LogStaticLightingSystem: level01_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2026.06.01-15.01.15:770][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.01-15.01.15:785][ 64]Lightmass on PIWO: 721 ms total, 51 ms importing, 3 ms setup, 73 ms photons, 499 ms processing, 0 ms extra exporting [35/35 mappings]. Threads: 7.48 sec total, 180 ms processing.
+[2026.06.01-15.01.15:822][ 64]LogStaticLightingSystem: Illumination: 5.54 sec (30 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2026.06.01-15.01.15:822][ 64]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2026.06.01-15.01.15:822][ 64]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2026.06.01-15.01.16:767][ 64]DumpUnbuiltLightIteractions
+[2026.06.01-15.01.16:767][ 64]Lights with unbuilt interactions: 0
+[2026.06.01-15.01.16:767][ 64]
+[2026.06.01-15.01.16:767][ 64]Primitives with unbuilt interactions: 0
+[2026.06.01-15.01.16:815][ 65]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.06.01-15.01.16:815][ 65]MapCheck: New page: level01 - 1 июн. 2026 г., 19:01:16
+[2026.06.01-15.01.16:816][ 65]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,17ms to complete.
+[2026.06.01-15.01.22:823][737]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2026.06.01-15.01.33:438][970]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_01_C (BP_Crystal_01)
+[2026.06.01-15.01.51:619][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal_01.BP_Crystal_01
+[2026.06.01-15.01.59:982][926]LogEditorTransaction: Undo Modify Component(s)
+[2026.06.01-15.02.11:789][213]BlueprintLog: New page: Compile BP_Crystal_01
+[2026.06.01-15.02.11:840][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.06.01-15.02.14:684][524]LogSlate: Window 'BP_Crystal_01' being destroyed
+[2026.06.01-15.02.14:695][524]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.06.01-15.02.14:695][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.01-15.02.20:014][ 80]MapCheck: New page: Map Check
+[2026.06.01-15.02.20:036][ 80]Cmd: MAP REBUILD ALLVISIBLE
+[2026.06.01-15.02.20:036][ 80]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.06.01-15.02.20:037][ 80]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=false
+[2026.06.01-15.02.20:119][ 80]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.06.01-15.02.20:119][ 80]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.06.01-15.02.20:119][ 80]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.06.01-15.02.20:148][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.01-15.02.20:153][ 80]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2026.06.01-15.02.20:154][ 80]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2026.06.01-15.02.20:162][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.01-15.02.20:164][ 80]LightingResults: New page: Lighting Build - 1 июн. 2026 г., 19:02:20
+[2026.06.01-15.02.20:168][ 80]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.06.01-15.02.20:172][ 80]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.06.01-15.02.20:172][ 80]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.06.01-15.02.20:173][ 80]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.06.01-15.02.20:173][ 80]LogSwarmInterface: [TryOpenConnection] Local Process ID is 28444
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.06.01-15.02.24:721][ 80]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.06.01-15.02.24:755][ 80]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.06.01-15.02.24:755][ 80]MapCheck: New page: level01 - 1 июн. 2026 г., 19:02:24
+[2026.06.01-15.02.24:755][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,182ms to complete.
+[2026.06.01-15.02.24:756][ 80]LogEditorBuildUtils: Build time 0:04
+[2026.06.01-15.02.24:852][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.01-15.02.25:472][100]Job is a success!
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:      Bricks at depth
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:      Bricks in each level
+[2026.06.01-15.02.25:627][102]LogVolumetricLightmapImport:          level01 			 3 bricks 	 100.0% (Persistent Level)
+[2026.06.01-15.02.25:702][102]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2026.06.01-15.02.25:702][102]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2026.06.01-15.02.25:702][102]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.06.01-15.02.25:702][102]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.06.01-15.02.25:702][102]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X512)
+[2026.06.01-15.02.25:703][102]LogStaticLightingSystem: level01_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2026.06.01-15.02.25:715][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.06.01-15.02.25:752][102]Lightmass on PIWO: 700 ms total, 50 ms importing, 3 ms setup, 55 ms photons, 502 ms processing, 0 ms extra exporting [35/35 mappings]. Threads: 7.52 sec total, 184 ms processing.
+[2026.06.01-15.02.25:791][102]LogStaticLightingSystem: Illumination: 5.52 sec (31 ms encoding lightmaps, 35 ms encoding shadowmaps)
+[2026.06.01-15.02.25:791][102]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2026.06.01-15.02.25:791][102]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2026.06.01-15.02.26:724][102]DumpUnbuiltLightIteractions
+[2026.06.01-15.02.26:724][102]Lights with unbuilt interactions: 0
+[2026.06.01-15.02.26:724][102]
+[2026.06.01-15.02.26:724][102]Primitives with unbuilt interactions: 0
+[2026.06.01-15.02.26:784][103]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.06.01-15.02.26:784][103]MapCheck: New page: level01 - 1 июн. 2026 г., 19:02:26
+[2026.06.01-15.02.26:785][103]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,163ms to complete.
+[2026.06.01-15.02.54:076][289]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2026.06.01-15.02.58:548][802]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2026.06.01-15.03.02:851][290]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2026.06.01-15.03.06:992][774]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2026.06.01-15.03.16:905][926]MapCheck: New page: Map Check
+[2026.06.01-15.03.16:953][926]Cmd: MAP REBUILD ALLVISIBLE
+[2026.06.01-15.03.16:953][926]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.06.01-15.03.16:955][926]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=false
+[2026.06.01-15.03.17:006][926]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.06.01-15.03.17:006][926]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.06.01-15.03.17:006][926]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.06.01-15.03.17:030][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.06.01-15.03.17:039][926]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2026.06.01-15.03.17:041][926]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2026.06.01-15.03.17:049][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.01-15.03.17:051][926]LightingResults: New page: Lighting Build - 1 июн. 2026 г., 19:03:17
+[2026.06.01-15.03.17:053][926]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.06.01-15.03.17:057][926]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.06.01-15.03.17:057][926]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.06.01-15.03.17:057][926]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.06.01-15.03.17:057][926]LogSwarmInterface: [TryOpenConnection] Local Process ID is 28444
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.06.01-15.03.21:593][926]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.06.01-15.03.21:624][926]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.06.01-15.03.21:624][926]MapCheck: New page: level01 - 1 июн. 2026 г., 19:03:21
+[2026.06.01-15.03.21:624][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,165ms to complete.
+[2026.06.01-15.03.21:626][926]LogEditorBuildUtils: Build time 0:04
+[2026.06.01-15.03.21:687][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.01-15.03.22:323][942]Job is a success!
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:      Bricks at depth
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:      Bricks in each level
+[2026.06.01-15.03.22:477][944]LogVolumetricLightmapImport:          level01 			 3 bricks 	 100.0% (Persistent Level)
+[2026.06.01-15.03.22:545][944]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2026.06.01-15.03.22:545][944]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2026.06.01-15.03.22:545][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.06.01-15.03.22:545][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.06.01-15.03.22:545][944]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X512)
+[2026.06.01-15.03.22:546][944]LogStaticLightingSystem: level01_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2026.06.01-15.03.22:555][944]Lightmass on PIWO: 675 ms total, 50 ms importing, 4 ms setup, 46 ms photons, 501 ms processing, 0 ms extra exporting [35/35 mappings]. Threads: 7.50 sec total, 189 ms processing.
+[2026.06.01-15.03.22:557][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.01-15.03.22:624][944]LogStaticLightingSystem: Illumination: 5.48 sec (32 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2026.06.01-15.03.22:624][944]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2026.06.01-15.03.22:624][944]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2026.06.01-15.03.23:594][944]DumpUnbuiltLightIteractions
+[2026.06.01-15.03.23:594][944]Lights with unbuilt interactions: 0
+[2026.06.01-15.03.23:594][944]
+[2026.06.01-15.03.23:594][944]Primitives with unbuilt interactions: 0
+[2026.06.01-15.03.23:654][945]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.06.01-15.03.23:654][945]MapCheck: New page: level01 - 1 июн. 2026 г., 19:03:23
+[2026.06.01-15.03.23:654][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2026.06.01-15.03.30:305][674]MapCheck: New page: Map Check
+[2026.06.01-15.03.30:349][674]Cmd: MAP REBUILD ALLVISIBLE
+[2026.06.01-15.03.30:349][674]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.06.01-15.03.30:350][674]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=false
+[2026.06.01-15.03.30:420][674]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.06.01-15.03.30:420][674]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.06.01-15.03.30:420][674]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.06.01-15.03.30:448][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.06.01-15.03.30:453][674]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2026.06.01-15.03.30:455][674]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2026.06.01-15.03.30:463][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.01-15.03.30:465][674]LightingResults: New page: Lighting Build - 1 июн. 2026 г., 19:03:30
+[2026.06.01-15.03.30:469][674]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.06.01-15.03.30:473][674]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.06.01-15.03.30:473][674]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.06.01-15.03.30:473][674]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.06.01-15.03.30:473][674]LogSwarmInterface: [TryOpenConnection] Local Process ID is 28444
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.06.01-15.03.35:030][674]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.06.01-15.03.35:060][674]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.06.01-15.03.35:061][674]MapCheck: New page: level01 - 1 июн. 2026 г., 19:03:35
+[2026.06.01-15.03.35:061][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,194ms to complete.
+[2026.06.01-15.03.35:063][674]LogEditorBuildUtils: Build time 0:04
+[2026.06.01-15.03.35:137][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.01-15.03.35:741][689]Job is a success!
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:      Bricks at depth
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:      Bricks in each level
+[2026.06.01-15.03.35:894][691]LogVolumetricLightmapImport:          level01 			 3 bricks 	 100.0% (Persistent Level)
+[2026.06.01-15.03.35:961][691]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2026.06.01-15.03.35:961][691]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2026.06.01-15.03.35:961][691]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.06.01-15.03.35:961][691]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.06.01-15.03.35:961][691]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X512)
+[2026.06.01-15.03.35:961][691]LogStaticLightingSystem: level01_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2026.06.01-15.03.35:971][691]Lightmass on PIWO: 663 ms total, 49 ms importing, 3 ms setup, 24 ms photons, 514 ms processing, 0 ms extra exporting [35/35 mappings]. Threads: 7.70 sec total, 167 ms processing.
+[2026.06.01-15.03.35:972][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.01-15.03.36:043][691]LogStaticLightingSystem: Illumination: 5.49 sec (31 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2026.06.01-15.03.36:043][691]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2026.06.01-15.03.36:043][691]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2026.06.01-15.03.37:032][691]DumpUnbuiltLightIteractions
+[2026.06.01-15.03.37:032][691]Lights with unbuilt interactions: 0
+[2026.06.01-15.03.37:032][691]
+[2026.06.01-15.03.37:032][691]Primitives with unbuilt interactions: 0
+[2026.06.01-15.03.37:070][692]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.06.01-15.03.37:070][692]MapCheck: New page: level01 - 1 июн. 2026 г., 19:03:37
+[2026.06.01-15.03.37:070][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,17ms to complete.
